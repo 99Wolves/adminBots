@@ -39,5 +39,5 @@ if(!message.content.startWith(prefix)) return;
 if(message.author.bot) return;
 }
 
-
+ 
 client.login('MzQwMzQ5MzI4MTM0NjM1NTIx.DFxP2g.aQznpqb-zYYSRb7pwXiVKiQ18bs');
